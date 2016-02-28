@@ -1,8 +1,7 @@
 # Design_I_BIOTIC
 Design I, Final Year Design Project
 
-#Group Number 1
-#Group Members 
+#Group 1
     Aneek Datta 
     Morgan Richardson
     Sunga Park
